@@ -1,4 +1,4 @@
-# AngularJS Phone Catalog Tutorial Application
+# This is the AngularJS Phone Catalog Tutorial Application
 
 ## Overview
 
